@@ -1,4 +1,4 @@
-#Urban-Visual-Pollutants-Detection
+# Urban-Visual-Pollutants-Detection
 
 This repository contains code and resources for detecting various types of urban visual pollution using the YOLOv5, VGG16, MobileNet, and DenseNet 121 models. The goal of this project is to identify and classify different instances of urban pollution in images. The following types of urban pollution are targeted:
 
