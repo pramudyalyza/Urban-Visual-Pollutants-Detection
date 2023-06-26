@@ -11,3 +11,10 @@ This repository contains code and resources for detecting various types of urban
 7. BAD BILLBOARD
 8. SAND ON ROAD
 9. CLUTTER_SIDEWALK
+
+# Dataset
+The dataset used in this analysis is sourced from Kaggle and can be accessed at the following link: [Urban Visual Pollution Dataset](https://www.kaggle.com/datasets/abhranta/urban-visual-pollution-dataset/discussion/397158). Please download the dataset from the provided link before running the code.
+
+# Files
+* **Group_7.ipynb:** This file contains the code we use to train and predict the data
+* **Report Project Deep Learning.pdf:** This file is the report for the project. In this report, you can find the background of why this study was conducted, the methodology, analysis, and conclusion
