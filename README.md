@@ -13,7 +13,7 @@ This repository contains code and resources for detecting various types of urban
 9. CLUTTER_SIDEWALK
 
 # Dataset
-The dataset used in this analysis is sourced from Kaggle and can be accessed at the following link: [Urban Visual Pollution Dataset](https://www.kaggle.com/datasets/abhranta/urban-visual-pollution-dataset/discussion/397158). Please download the dataset from the provided link before running the code.
+The dataset used in this analysis is sourced from Kaggle and can be accessed at the following link: [Urban Visual Pollution Dataset](https://www.kaggle.com/datasets/abhranta/urban-visual-pollution-dataset). Please download the dataset from the provided link before running the code.
 
 # Files
 * **Group_7.ipynb:** This file contains the code we use to train and predict the data
